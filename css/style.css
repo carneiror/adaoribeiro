@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica, Arial;
+    font-size: 13px;
+}
+
+#container {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#logo {
+    width: 400px;
+    display: inline;
+}
